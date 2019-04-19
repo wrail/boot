@@ -1,0 +1,15 @@
+#user:
+#  username: wrial
+#  age: 20
+#  birth: 1999/11/27
+#  man: true
+#  list:
+#    - 1
+#    - 2
+#    - 3
+#  moreInfo:
+#    address: 太空
+#  map: {k: v}
+#
+#
+
